@@ -1,0 +1,9 @@
+PhpLounge
+=========
+
+Php Lounge is another implementation of a PHP-CouchDb mapping. It's mainly developped to
+create a nice array-like interface to a CouchDb. I thought this was lacking with the other
+Php CouchDb projects.
+
+This is just a small start, focussed on personal use. Feel free to contact me if you'd like
+to improve the library!
